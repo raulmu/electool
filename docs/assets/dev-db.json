@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "initialDate": "2023-05-17T08:00:00.000Z"
+    }
+  ],
+  "config": {
+    "defaultTax": 1.10
+  }
+}
