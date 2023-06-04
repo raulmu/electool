@@ -5,6 +5,7 @@
     }
   ],
   "config": {
-    "defaultTax": 1.10
+    "defaultTax": 1.10,
+    "minPrice": 95
   }
 }
