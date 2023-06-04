@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685885068845,
+  "timestamp": 1685885611289,
   "index": "/electool/index.html",
   "assetGroups": [
     {
@@ -54,7 +54,7 @@
     "/electool/assets/icons/icon-72x72.png": "79f0fab550fa783c6f5b974f9925487a7681b8bd",
     "/electool/assets/icons/icon-96x96.png": "18307b8cd966f6fab252d27a8d6e0f3dcaacdc4e",
     "/electool/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
-    "/electool/index.html": "fcc201a7b5865f754875157e125b807f064ad946",
+    "/electool/index.html": "b0c53e90d821750b7a2d284c5a86dae3eaa83cbc",
     "/electool/main.3453be41ff2c9506.js": "394ee0a92741e88c706fd65548267585e9fa221c",
     "/electool/manifest.webmanifest": "ee9c025d336f82a430fa2ed94d77ae89e7834e17",
     "/electool/polyfills.e3e12dc6c599b14f.js": "7c4126939cb4c4f8bdd9cce2f2a5b5adde0ab24b",
