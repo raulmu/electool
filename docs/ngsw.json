@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685836059387,
+  "timestamp": 1685885068845,
   "index": "/electool/index.html",
   "assetGroups": [
     {
@@ -12,11 +12,11 @@
       },
       "urls": [
         "/electool/index.html",
-        "/electool/main.dd3e500a556ceeff.js",
+        "/electool/main.3453be41ff2c9506.js",
         "/electool/manifest.webmanifest",
         "/electool/polyfills.e3e12dc6c599b14f.js",
         "/electool/runtime.1ce47e7858e03e9e.js",
-        "/electool/styles.2d88ff7ee21f044a.css"
+        "/electool/styles.be0254a89ca04c5e.css"
       ],
       "patterns": []
     },
@@ -45,21 +45,21 @@
   "dataGroups": [],
   "hashTable": {
     "/electool/assets/dev-db.json": "a9d343f1bd6a8b4d2bbf25600703901a3b7bb240",
-    "/electool/assets/icons/icon-128x128.png": "4db05e00a1ecd118f6f0e70083a5aebd7fa4f8f8",
-    "/electool/assets/icons/icon-144x144.png": "d82800862a7dca138c3d61ea20d35bc9fe9bab3f",
-    "/electool/assets/icons/icon-152x152.png": "267c101cc7231a621f93e40a26c09154c7a3f866",
-    "/electool/assets/icons/icon-192x192.png": "5612fd11d90da4870482662276cb09c2e95c514f",
-    "/electool/assets/icons/icon-384x384.png": "43ecea3008b46dca28a2142d8507f7e9e3105d36",
-    "/electool/assets/icons/icon-512x512.png": "4ab0617e111fdf3a919c830b26900dfe06a2ab66",
-    "/electool/assets/icons/icon-72x72.png": "59c6d60b88a411e8c4a5b943832c80fbbc8addc3",
-    "/electool/assets/icons/icon-96x96.png": "5416113a9f9b07466a09b293cb4369db3257810f",
+    "/electool/assets/icons/icon-128x128.png": "09bc7e1c45a7c0bcc6abc5f039be743661d3122c",
+    "/electool/assets/icons/icon-144x144.png": "3dec6f4d2a71df577d7082df3ef7f5e94fb13806",
+    "/electool/assets/icons/icon-152x152.png": "728a5d140190c86dff5de7b3185c869c33717eb2",
+    "/electool/assets/icons/icon-192x192.png": "6cb7bc174b0a251e40473bbdcf36d807a1135faa",
+    "/electool/assets/icons/icon-384x384.png": "f91b63d33b128ec7c03fd2cebb372f759b7dba50",
+    "/electool/assets/icons/icon-512x512.png": "02c0ffdc658942eab66ae5ba7e2336e96a8a8396",
+    "/electool/assets/icons/icon-72x72.png": "79f0fab550fa783c6f5b974f9925487a7681b8bd",
+    "/electool/assets/icons/icon-96x96.png": "18307b8cd966f6fab252d27a8d6e0f3dcaacdc4e",
     "/electool/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
-    "/electool/index.html": "9a32604174c9d42192074fcb588bc731f5b6d71a",
-    "/electool/main.dd3e500a556ceeff.js": "7d2ad5d441577c3bb3190c9d753925d54cb9fe22",
-    "/electool/manifest.webmanifest": "a5138f977bfeead94f46cea19900ca5c4bf51108",
+    "/electool/index.html": "fcc201a7b5865f754875157e125b807f064ad946",
+    "/electool/main.3453be41ff2c9506.js": "394ee0a92741e88c706fd65548267585e9fa221c",
+    "/electool/manifest.webmanifest": "ee9c025d336f82a430fa2ed94d77ae89e7834e17",
     "/electool/polyfills.e3e12dc6c599b14f.js": "7c4126939cb4c4f8bdd9cce2f2a5b5adde0ab24b",
     "/electool/runtime.1ce47e7858e03e9e.js": "ad06c4f4f86c95707c72db10c47fe63e16de6377",
-    "/electool/styles.2d88ff7ee21f044a.css": "fdcd3a3c91f4f1328cfd5b64c3e746f64534a928"
+    "/electool/styles.be0254a89ca04c5e.css": "72c82a288b25c44a388238c6d360ef3b0f991481"
   },
   "navigationUrls": [
     {
