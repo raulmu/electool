@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1697302666300,
+  "timestamp": 1697421329333,
   "index": "/electool/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/electool/index.html",
-        "/electool/main.24bb60fe08e1162b.js",
+        "/electool/main.00b2b8a28b218a5b.js",
         "/electool/manifest.webmanifest",
         "/electool/polyfills.f962f3e74a1abdc4.js",
         "/electool/runtime.1ce47e7858e03e9e.js",
@@ -54,8 +54,8 @@
     "/electool/assets/icons/icon-72x72.png": "79f0fab550fa783c6f5b974f9925487a7681b8bd",
     "/electool/assets/icons/icon-96x96.png": "18307b8cd966f6fab252d27a8d6e0f3dcaacdc4e",
     "/electool/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
-    "/electool/index.html": "448bac8bdac6052d96d483e769507bbcea16f12f",
-    "/electool/main.24bb60fe08e1162b.js": "e23c8e85d3816f384feea74fe1eb49a13bf75990",
+    "/electool/index.html": "370d973c54eeccabc9ea66250dd7ca890cc2f661",
+    "/electool/main.00b2b8a28b218a5b.js": "e2c499657979d1ef1f646d145503475ea17bd913",
     "/electool/manifest.webmanifest": "e329a9c9d005ee641ae4170277c91baa91349afb",
     "/electool/polyfills.f962f3e74a1abdc4.js": "03bafde394af8697c829b8682bbf5f949eeed3ec",
     "/electool/runtime.1ce47e7858e03e9e.js": "ad06c4f4f86c95707c72db10c47fe63e16de6377",
